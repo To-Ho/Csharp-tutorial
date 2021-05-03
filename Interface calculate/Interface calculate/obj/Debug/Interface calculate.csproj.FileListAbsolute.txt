@@ -1,0 +1,6 @@
+C:\Users\trang\source\repos\Interface calculate\Interface calculate\obj\Debug\Interface calculate.csproj.CoreCompileInputs.cache
+C:\Users\trang\source\repos\Interface calculate\Interface calculate\bin\Debug\Interface calculate.exe.config
+C:\Users\trang\source\repos\Interface calculate\Interface calculate\bin\Debug\Interface calculate.exe
+C:\Users\trang\source\repos\Interface calculate\Interface calculate\bin\Debug\Interface calculate.pdb
+C:\Users\trang\source\repos\Interface calculate\Interface calculate\obj\Debug\Interface calculate.exe
+C:\Users\trang\source\repos\Interface calculate\Interface calculate\obj\Debug\Interface calculate.pdb

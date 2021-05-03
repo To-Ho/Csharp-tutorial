@@ -1,0 +1,6 @@
+C:\Users\trang\source\repos\InterfaceExamples\InterfaceExamples\bin\Debug\InterfaceExamples.exe.config
+C:\Users\trang\source\repos\InterfaceExamples\InterfaceExamples\bin\Debug\InterfaceExamples.exe
+C:\Users\trang\source\repos\InterfaceExamples\InterfaceExamples\bin\Debug\InterfaceExamples.pdb
+C:\Users\trang\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\InterfaceExamples.csproj.CoreCompileInputs.cache
+C:\Users\trang\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\InterfaceExamples.exe
+C:\Users\trang\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\InterfaceExamples.pdb
