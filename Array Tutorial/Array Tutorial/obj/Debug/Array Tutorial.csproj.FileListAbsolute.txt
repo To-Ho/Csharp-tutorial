@@ -1,0 +1,7 @@
+C:\Users\trang\source\repos\Array Tutorial\Array Tutorial\bin\Debug\Array Tutorial.exe.config
+C:\Users\trang\source\repos\Array Tutorial\Array Tutorial\bin\Debug\Array Tutorial.exe
+C:\Users\trang\source\repos\Array Tutorial\Array Tutorial\bin\Debug\Array Tutorial.pdb
+C:\Users\trang\source\repos\Array Tutorial\Array Tutorial\obj\Debug\Array Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\trang\source\repos\Array Tutorial\Array Tutorial\obj\Debug\Array Tutorial.exe
+C:\Users\trang\source\repos\Array Tutorial\Array Tutorial\obj\Debug\Array Tutorial.pdb
+C:\Users\trang\source\repos\Array Tutorial\Array Tutorial\obj\Debug\Array Tutorial.csprojAssemblyReference.cache

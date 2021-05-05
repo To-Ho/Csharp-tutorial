@@ -1,0 +1,7 @@
+C:\Users\trang\source\repos\Advance Geometric Calculator\Advance Geometric Calculator\bin\Debug\Advance Geometric Calculator.exe.config
+C:\Users\trang\source\repos\Advance Geometric Calculator\Advance Geometric Calculator\bin\Debug\Advance Geometric Calculator.exe
+C:\Users\trang\source\repos\Advance Geometric Calculator\Advance Geometric Calculator\bin\Debug\Advance Geometric Calculator.pdb
+C:\Users\trang\source\repos\Advance Geometric Calculator\Advance Geometric Calculator\obj\Debug\Advance Geometric Calculator.csprojAssemblyReference.cache
+C:\Users\trang\source\repos\Advance Geometric Calculator\Advance Geometric Calculator\obj\Debug\Advance Geometric Calculator.csproj.CoreCompileInputs.cache
+C:\Users\trang\source\repos\Advance Geometric Calculator\Advance Geometric Calculator\obj\Debug\Advance Geometric Calculator.exe
+C:\Users\trang\source\repos\Advance Geometric Calculator\Advance Geometric Calculator\obj\Debug\Advance Geometric Calculator.pdb
